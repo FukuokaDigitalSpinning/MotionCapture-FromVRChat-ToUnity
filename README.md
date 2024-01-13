@@ -51,7 +51,9 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 ## Authors
 
-- **Your Name** - *Initial work* - [YourUsername](link-to-your-profile)
+- **mukaderabbit** - *Initial work on HyakuashiUdonMotionRecorder-HUMR* - [mukaderabbit-HyakuashiUdonMotionRecorder-HUMR](https://github.com/mukaderabbit/mukaderabbit-HyakuashiUdonMotionRecorder-HUMR-)
+- **Davide Riccitiello** - *Modifications and Enhancements* - [DavideRiccitiello](https://github.com/DavideRiccitiello)
+
 
 See also the list of [contributors](link-to-contributors-page) who participated in this project.
 
