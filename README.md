@@ -22,7 +22,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
 
 ### Prerequisites
 
@@ -55,17 +55,8 @@ We use [SemVer](http://semver.org/) for versioning. For the versions available, 
 
 See also the list of [contributors](link-to-contributors-page) who participated in this project.
 
-## License
-
-This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details
-
-## Acknowledgments
-
-- Hat tip to anyone whose code was used
-- Inspiration
-- etc
-
 ## Community
+We do support content creation and XR technologies. I am an active developer working for a Japanese company https://fukuoka-db.com/. 
 
 [Join our Discord](https://discord.gg/mU3eq3GjdN) for discussions and updates.
 
