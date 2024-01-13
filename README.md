@@ -1,10 +1,10 @@
-# MotionCapture-FromVRChat-ToUnity
-
-This Unity project is designed to record VR movement in VRChat, utilizing the latest VRChat SDK from the VRChat Creator Companion. It captures the user's movements within the VRChat environment, making it an essential tool for VR enthusiasts and content creators. The project leverages Vive trackers or other compatible tracking devices to provide accurate and detailed motion data.
-
 ## Acknowledgments
 
 - This project is based on [HyakuashiUdonMotionRecorder-HUMR](https://github.com/mukaderabbit/mukaderabbit-HyakuashiUdonMotionRecorder-HUMR-) by [mukaderabbit](https://github.com/mukaderabbit). Special thanks to them for their initial work and contributions to the open-source community.
+
+# MotionCapture-FromVRChat-ToUnity
+
+This Unity project is designed to record VR movement in VRChat, utilizing the latest VRChat SDK from the VRChat Creator Companion. It captures the user's movements within the VRChat environment, making it an essential tool for VR enthusiasts and content creators. Vive trackers or other compatible tracking devices for converting a Json file automatically generated from the world .
 
 ## License
 
