@@ -8,7 +8,7 @@
 
 ## License
 
-This project is licensed under the XYZ License - see the [LICENSE.md](LICENSE.md) file for details. The original HyakuashiUdonMotionRecorder-HUMR project by mukaderabbit is licensed under the MIT License.
+This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. The original HyakuashiUdonMotionRecorder-HUMR project by mukaderabbit is licensed under the MIT License.
 
 # Project Title
 
