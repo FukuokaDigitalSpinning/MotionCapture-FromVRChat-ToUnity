@@ -1,5 +1,6 @@
 # MotionCapture-FromVRChat-ToUnity
 
+Brief description of what the project does. This should be a clear and concise explanation that quickly informs visitors about the purpose of your project.
 
 
 ## Acknowledgments
@@ -10,9 +11,6 @@
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details. The original HyakuashiUdonMotionRecorder-HUMR project by mukaderabbit is licensed under the MIT License.
 
-# Project Title
-
-Brief description of what the project does. This should be a clear and concise explanation that quickly informs visitors about the purpose of your project.
 
 ## Features
 
