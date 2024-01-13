@@ -1,7 +1,6 @@
 # MotionCapture-FromVRChat-ToUnity
 
-Brief description of what the project does. This should be a clear and concise explanation that quickly informs visitors about the purpose of your project.
-
+This Unity project is designed to record VR movement in VRChat, utilizing the latest VRChat SDK from the VRChat Creator Companion. It captures the user's movements within the VRChat environment, making it an essential tool for VR enthusiasts and content creators. The project leverages Vive trackers or other compatible tracking devices to provide accurate and detailed motion data.
 
 ## Acknowledgments
 
